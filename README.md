@@ -6,3 +6,4 @@ I recently discovered several best practices I'm not following, so there will be
 
 I'm also still researching testing frameworks, so there aren't any of those yet.
 
+In addition to code comments, I have a list here: https://trello.com/b/Snxn8H1E/laffo
