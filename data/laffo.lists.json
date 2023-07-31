@@ -1,0 +1,729 @@
+[{
+  "_id": {
+    "$oid": "64a98a99c477cbe5072016c6"
+  },
+  "name": "Retro Gaming",
+  "owner": "64b2b2a32d9557540600ca44",
+  "urls": [
+    "https://www.retrorgb.com/feed",
+    "http://crpgaddict.blogspot.com/feeds/posts/default?alt=rss",
+    "https://www.filfre.net/feed/",
+    "https://www.indieretronews.com/feeds/posts/default?alt=rss",
+    "https://www.ngdevdirect.com/blogs/news.atom",
+    "https://www.dfworkshop.net/feed/",
+    "http://dreamandfriends.com/feed/",
+    "https://gamesfromtheblackhole.wordpress.com/feed/",
+    "https://www.6502workshop.com/feeds/posts/default?alt=rss",
+    "https://feeds.feedburner.com/RetrogamingWithRacketboy",
+    "https://magicalgametime.com/rss",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCfBLXTwLoUpDAkHcHizW3Jg",
+    "https://crpgbook.wordpress.com/feed/",
+    "https://bottomfeeder.substack.com/feed",
+    "https://www.retromags.com/rss/1-latest-releases.xml/",
+    "https://if50.substack.com/feed",
+    "https://segadoes.com/feed/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9b28fc477cbe5072016e1"
+  },
+  "name": "Money Management",
+  "urls": [
+    "https://jlcollinsnh.com/feed/",
+    "https://feeds.feedburner.com/MrMoneyMustache",
+    "https://hifriend.substack.com/feed",
+    "https://www.bogleheads.org/blog/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCFCEuCsyWP0YkP3CZ3Mr01Q"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9b597c477cbe5072016e5"
+  },
+  "name": "Headphones",
+  "urls": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC7WtLipHnndkqwSxvL0oyVQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC3XdYJjWliOdKuZMNaTiP8Q",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCx9bOYEjkevIDYONBAstK-A",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCUd3NzP232n-zcGW-b1m6Qw",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCt44wdefZzrhNDYYAyEy3Xg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCurv9zw0LturSVaqI6NgdrQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCpE4nYnzXQFB5uHOZpKZ6Eg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC7Jwj9fkrf1adN4fMmTkpug",
+    "https://headphone.guru/feed/",
+    "https://www.audiophile-heaven.com/feed",
+    "https://audio46.com/blogs/headphones.atom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9ce2bc477cbe5072016e9"
+  },
+  "name": "Milwaukee News",
+  "urls": [
+    "https://urbanmilwaukee.com/home/feed/",
+    "https://milwaukeerecord.com/feed/",
+    "http://rssfeeds.jsonline.com/milwaukee/local",
+    "https://milwaukeenns.org/feed/",
+    "https://apnews.com/hub/milwaukee.rss",
+    "https://shepherdexpress.com/news/index.rss",
+    "https://www.wuwm.com/tags/wuwm-news.rss",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCdL7WitXtIri8jXGwiFJiVg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9ee2cc477cbe5072016ec"
+  },
+  "name": "PC Master Race",
+  "urls": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCGsaijjOJshS2_ZmMNZgS-g",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC9PBzalIcEQCsiIkq36PyUA",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UChIs72whgZI9w6d6FhwGGHA",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCI8iQa1hv7oV_Z8D35vVuSg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCkWQ0gDrqOCarmUKmppD7GQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCy-pYDfVaRwfQ0zChOBRuuw",
+    "https://www.pcworld.com/feed"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a9f049c477cbe5072016ef"
+  },
+  "urls": [
+    "https://www.gamedeveloper.com/rss.xml",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJ-Xo29CKyLTjn6z2XwYAw",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCv1DvRY5PyHHt3KN9ghunuw",
+    "https://megacatstudios.com/blogs/game-development.atom",
+    "https://megacatstudios.com/blogs/retro-development.atom"
+  ],
+  "name": "Game Dev"
+},
+{
+  "_id": {
+    "$oid": "64a9efcbc477cbe5072016ee"
+  },
+  "name": "Home Servers",
+  "urls": [
+    "https://www.servethehome.com/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCv6J_jJa8GJqFwQNgNrMuww",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC4w1YQAJMWOz4qtxinq55LQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64aa08ffc477cbe5072016f5"
+  },
+  "name": "Software Development",
+  "urls": [
+    "https://martinfowler.com/feed.atom",
+    "https://shiflett.org/feeds/blog",
+    "https://blog.thecodewhisperer.com/feed.xml",
+    "https://blog.getbootstrap.com/feed.xml",
+    "http://blog.cleancoder.com/atom.xml",
+    "https://www.expatsoftware.com/blog/rss.aspx",
+    "https://blog.codinghorror.com/rss/",
+    "https://corgibytes.com/feed.xml",
+    "http://swannodette.github.io/atom.xml",
+    "https://blog.eyas.sh/feed/rss.xml",
+    "http://hintjens.com/feed/pages/pagename/blog:_start/category/blog/tags/-nofront/limit/999/t/Hintjens",
+    "https://jvns.ca/atom.xml",
+    "https://nickcraver.com/blog/feed.xml",
+    "https://sklivvz.com/feed",
+    "https://rachelbythebay.com/w/atom.xml",
+    "http://feeds.feedburner.com/littlebigdetails",
+    "https://feeds.feedburner.com/TheDailyWtf",
+    "http://www.giantsofit.org/feed",
+    "http://theprofoundprogrammer.com/rss"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64aa0e05c477cbe5072016f8"
+  },
+  "name": "Webcomics",
+  "urls": [
+    "https://badmachinery.com/index.xml",
+    "https://www.webtoons.com/en/challenge/cryptid-club/rss?title_no=686603",
+    "https://qwantz.com/rssfeed.php",
+    "http://garfieldminusgarfield.net/rss?_=4134",
+    "https://goodbearcomics.com/feed/",
+    "http://www.harkavagrant.com/rssfeed.php",
+    "http://lizclimo.tumblr.com/rss",
+    "https://feeds.feedburner.com/Hyperbole-and-a-half",
+    "https://loadingartist.com/index.xml",
+    "https://lolnein.com/feed/",
+    "https://feeds.feedburner.com/oatmealfeed",
+    "https://pbfcomics.com/feed/",
+    "https://thepigeongazette.tumblr.com/rss",
+    "https://feeds.feedburner.com/PoorlyDrawnLines",
+    "https://www.smbc-comics.com/comic/rss",
+    "https://www.reddit.com/user/nathanwpyle/submitted/.rss",
+    "https://www.webtoons.com/en/challenge/system32comics/rss?title_no=235074",
+    "https://warandpeas.com/feed/",
+    "https://webcomicname.com/rss",
+    "https://xkcd.com/rss.xml",
+    "https://www.nuklearpower.com/feed/",
+    "https://theoatmeal.com/feed/rss",
+    "https://www.paranatural.net/comic/rss",
+    "https://toothpastefordinner.com/rss/rss.php",
+    "http://www.dieselsweeties.com/ds-unifeed.xml",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC91V6D3nkhP89wUb9f_h17g"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ab5887c477cbe507201720"
+  },
+  "name": "Internet Marketing",
+  "urls": [
+    "https://sive.rs/en.atom",
+    "http://www.aaronsw.com/2002/feeds/pgessays.rss",
+    "https://ryanholiday.net/feed/",
+    "https://feeds.feedburner.com/typepad/sethsmainblog",
+    "http://feeds.feedburner.com/stevecorona",
+    "https://tim.blog/feed/",
+    "https://garyvaynerchuk.com/feed/",
+    "https://medium.com/feed/@randfish",
+    "https://neilpatel.com/blog/rand-fishkin-content-seo/feed/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ab5996c477cbe507201721"
+  },
+  "name": "Milwaukee Brewers",
+  "urls": [
+    "https://www.brewcrewball.com/rss/current.xml",
+    "https://www.mlbtraderumors.com/milwaukee-brewers/feed",
+    "https://www.mlb.com/brewers/feeds/news/rss.xml"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ab5ccac477cbe507201722"
+  },
+  "name": "Pro Wrestling",
+  "urls": [
+    "https://prowrestlingpost.com/feed/",
+    "https://prowrestling.net/site/feed/",
+    "https://www.cagesideseats.com/rss/current.xml",
+    "https://pwi-online.com/feed/",
+    "https://www.wrestlinginc.com/feed/",
+    "https://www.fightful.com/rss.xml",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ5v_MCY6GNUBTO8-D3XoAg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCP-4lLGDIhD9fetRqtnUyuA",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCFN4JkGP_bVhAdBsoV9xftA",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC-ULsqsUW_UB1F6i2rOo_uQ"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ab60f2c477cbe507201730"
+  },
+  "name": "Lego",
+  "urls": [
+    "https://brickset.com/feed",
+    "http://feeds.feedburner.com/LegoEverlasting-LegoReviewsNews",
+    "http://feeds.feedburner.com/TheBrothersBrick",
+    "http://feeds.feedburner.com/thebrickblogger",
+    "https://jaysbrickblog.com/feed/",
+    "https://bricknerd.com/home?format=rss",
+    "https://brickmodelrailroader.com/index.php/feed/",
+    "https://rebrickable.com/blog/rss/",
+    "https://www.magcloud.com/feed/getrecentpublicationissues?publicationId=4160",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCUU3GdGuQshZFRGnxAPBf_w",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCP-Ng5SXUEt0VE-TXqRdL6g",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UClsFdM0HzTdF1JYoraQ0aUw",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCCKnyJgp0rV2MnzHJPZcKsg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCTGHqw41qk_WyK3wJK7nweg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ae89e271b4bbe98c92a0a1"
+  },
+  "name": "Retro Gaming Makers",
+  "urls": [
+    "https://www.szabosarcades.com/blogs/news.atom",
+    "https://retrofrog.net/blogs/news.atom",
+    "https://terraonion.com/en/feed/",
+    "https://www.laserbear.net/blogs/news.atom",
+    "http://neogeofanclub.com/feed/",
+    "https://www.analogue.co/feed/all",
+    "https://c65gs.blogspot.com/feeds/posts/default",
+    "https://www.eongaming.tech/blog-feed.xml",
+    "https://misteraddons.com/blogs/news.atom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ae8aee71b4bbe98c92a0a2"
+  },
+  "name": "Dwarf Fortress",
+  "urls": [
+    "https://www.bay12games.com/dwarves/dev_now.rss",
+    "https://www.bay12games.com/dwarves/dev_release.rss",
+    "https://medium.com/feed/@kitfoxgames",
+    "https://store.steampowered.com/feeds/news/app/975370/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCcqk8pdIsCFU32ofbjJkzOg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCK0wWfg2_bqWOQFFNWp58mw",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCaifrB5IrvGNPJmPeVOcqBA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ae8b7071b4bbe98c92a0a3"
+  },
+  "name": "Apple",
+  "urls": [
+    "https://www.apple.com/newsroom/rss-feed.rss",
+    "https://feeds.macrumors.com/MacRumors-All",
+    "https://9to5mac.com/feed/",
+    "https://appleinsider.com/rss/news",
+    "https://www.theverge.com/rss/apple/index.xml",
+    "https://feeds.arstechnica.com/arstechnica/apple"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ae8bfa71b4bbe98c92a0a4"
+  },
+  "name": "Gaming News",
+  "urls": [
+    "https://hard-drive.net/feed/",
+    "https://www.eurogamer.net/feed",
+    "https://noisypixel.net/feed/",
+    "https://www.kicktraq.com/categories/games/video%20games/latest.rss",
+    "https://www.polygon.com/rss/index.xml",
+    "https://www.theverge.com/rss/games/index.xml",
+    "https://megacatstudios.com/blogs/gaming-news.atom",
+    "https://overkill.wtf/rss/",
+    "https://exputer.com/feed/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ae8c3771b4bbe98c92a0a5"
+  },
+  "name": "Scifi / Fantasy Authors",
+  "urls": [
+    "https://www.brandonsanderson.com/feed/",
+    "https://georgerrmartin.com/notablog/feed/",
+    "https://blog.patrickrothfuss.com/feed/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b195d853d259f92089dd02"
+  },
+  "name": "Emulation",
+  "urls": [
+    "https://rpcs3.net/blog/feed/",
+    "https://retropie.org.uk/feed/",
+    "https://dolphin-emu.org/blog/feeds/",
+    "https://n4g.com/rss/news?channel=&sort=latest",
+    "https://citra-emu.org/index.xml",
+    "https://melonds.kuribo64.net/rss.php",
+    "https://mgba.io/feed.xml",
+    "https://pcsx2.net/blog/rss.xml",
+    "https://www.ppsspp.org/blog/rss.xml",
+    "https://www.libretro.com/index.php/feed/",
+    "https://blog.ryujinx.org/rss/",
+    "https://www.scummvm.org/feeds/rss/",
+    "https://xenia.jp/feed.xml",
+    "http://www.emulator-zone.com/rss_news.php"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1975253d259f92089dd03"
+  },
+  "name": "Interesting - Assorted Topics",
+  "urls": [
+    "https://www.wired.com/feed/category/ideas/latest/rss",
+    "https://www.wired.com/feed/category/backchannel/latest/rss",
+    "https://feeds.arstechnica.com/arstechnica/staff-blogs",
+    "https://www.atlasobscura.com/feeds/latest",
+    "https://longreads.com/feed/",
+    "https://lettersofnote.com/feed/",
+    "https://diariesofnote.com/feed/",
+    "https://feeds.feedburner.com/damninteresting/all",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCbWcXB0PoqOsAvAdfzWMf0w",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCNIuvl7V8zACPpTmmNIqP2A",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCXIkr0SRTnZO4_QpZozvCCA",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCK1XzxcKXB_v_dcw_tflC1A",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b197db53d259f92089dd04"
+  },
+  "name": "Science and Technology",
+  "urls": [
+    "https://www.theverge.com/rss/science/index.xml",
+    "https://www.theverge.com/rss/tech/index.xml",
+    "https://www.wired.com/feed/category/science/latest/rss",
+    "https://feeds.arstechnica.com/arstechnica/technology-lab",
+    "https://feeds.arstechnica.com/arstechnica/science",
+    "https://www.popsci.com/feed/",
+    "http://www.newyorker.com/feed/tech"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1981253d259f92089dd05"
+  },
+  "name": "Science and Technology - Paywalled Content",
+  "urls": [
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "http://feeds.washingtonpost.com/rss/business/technology?itid=lk_inline_manual_31"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1984753d259f92089dd06"
+  },
+  "name": "Entertainment - Music, Movies, Television",
+  "urls": [
+    "https://www.avclub.com/rss",
+    "https://www.theverge.com/rss/tv/index.xml",
+    "https://www.theverge.com/rss/film/index.xml",
+    "https://www.theverge.com/rss/hot-pod-newsletter/index.xml",
+    "https://variety.com/feed/rss/",
+    "https://www.wired.com/feed/category/culture/latest/rss",
+    "https://peabodyawards.com/feed/",
+    "https://pitchfork.com/feed/feed-news/rss",
+    "https://pitchfork.com/feed/feed-album-reviews/rss",
+    "https://pitchfork.com/feed/feed-features/rss",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCsEukrAd64fqA7FjwkmZ_Dw",
+    "https://www.esquire.com/rss/entertainment.xml/",
+    "https://www.billboard.com/feed/",
+    "https://www.spin.com/feed/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1988a53d259f92089dd07"
+  },
+  "name": "Entertainment - Paywalled Content",
+  "urls": [
+    "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml",
+    "http://feeds.washingtonpost.com/rss/entertainment?itid=lk_inline_manual_39"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1a0c253d259f92089dd0a"
+  },
+  "name": "Internet Security and Safety",
+  "urls": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCBNG0osIBAprVcZZ3ic84vw",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCm22FAXZMw1BaWeFszZxUKw",
+    "https://letsencrypt.org/feed.xml",
+    "https://krebsonsecurity.com/feed/",
+    "https://www.schneier.com/feed/",
+    "https://defcon.org/defconrss.xml",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ1tF4B8G-R7nWb5uJyx8xw"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1a12053d259f92089dd0b"
+  },
+  "name": "News - Nonpartisan",
+  "urls": [
+    "https://rss.csmonitor.com/feeds/usa",
+    "https://rss.csmonitor.com/feeds/world",
+    "https://www.factcheck.org/feed/",
+    "https://theconversation.com/us/articles.atom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1a65c53d259f92089dd0c"
+  },
+  "name": "Linux and Open Source Operating Systems Updates",
+  "urls": [
+    "https://nixos.org/blog/announcements-rss.xml",
+    "https://reactos.org/index.xml",
+    "https://www.freebsd.org/news/feed.xml",
+    "https://www.linuxtoday.com/feed/",
+    "https://9to5linux.com/feed/atom",
+    "https://lwn.net/headlines/newrss",
+    "https://distrowatch.com/news/dw.xml",
+    "https://ubuntu.social/@edubuntu.rss",
+    "https://kubuntu.org/feed/",
+    "https://lubuntu.me/feed/",
+    "https://ubuntubudgie.org/feed/",
+    "https://ubuntu-mate.org/rss.xml",
+    "https://ubuntu.com/blog/feed",
+    "https://xubuntu.org/feed/",
+    "http://damnsmalllinux.org/blog/node/feed",
+    "https://archlinux.org/feeds/news/",
+    "https://www.suse.com/c/feed/",
+    "https://blog.mageia.org/en/?feed=rss",
+    "https://www.openmandriva.org/spip.php?page=backend",
+    "https://blog.google/rss",
+    "https://www.gentoo.org/feeds/news.xml"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1a6a553d259f92089dd0d"
+  },
+  "name": "Humor",
+  "urls": [
+    "https://knowyourmeme.com/newsfeed.rss",
+    "https://www.theonion.com/rss",
+    "https://overheardinnewyork.com/feed/",
+    "https://www.cracked.com/feeds/articles",
+    "https://clickhole.com/feed/",
+    "https://mcmansionhell.com/rss",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCR1D15p_vdP3HkrH8wgjQRw",
+    "http://www.newyorker.com/feed/humor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b1aee953d259f92089dd10"
+  },
+  "name": "Game Stores",
+  "urls": [
+    "https://castlemaniagames.com/blogs/news.atom",
+    "https://stoneagegamer.com/rss.php?action=newblogs&type=rss",
+    "https://stoneagegamer.com/rss.php?type=rss",
+    "https://www.fangamer.com/blogs/news.atom",
+    "https://www.pikointeractive.com/blog-feed.xml",
+    "https://songbird-productions.com/feed/",
+    "https://gameovervideogames.com/blogs/news.atom"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b270f553d259f92089dd18"
+  },
+  "name": "Gaming Culture, Documentaries, Retrospectives, Analysis",
+  "urls": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCpvtp7mH0Cdq8FQUxcjDq0Q",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC5aY7fkhUWOwb0VmCe8mXAg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC9UJ7FU85pQujXTZkfUq24g",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC-_fcy0GnyjaRIWWJuBFQ8Q",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC8uT9cgJorJPWu7ITLGo9Ww",
+    "https://www.forgottenworlds.net/blog?format=rss",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC0fDG3byEcMtbOqPMymDNbw",
+    "https://megacatstudios.com/blogs/game-culture.atom",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCtUbO6rBht0daVIOGML3c8w",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCjFaPUcJU1vwk193mnW_w1w",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCJUSr7xT6mgyz0Xj2rMD5CA",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCHTnEwQKNwm49CQeCVZogMw",
+    "http://www.suppermariobroth.com/rss"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b3d54553d259f92089dd55"
+  },
+  "name": "Urbanism",
+  "urls": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCfgtNfWCtsLKutY-BHzIb9Q",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCN5CBM1NkqDYAHgS-AbgGHA",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCGc8ZVCsrR3dAuhvUbkbToQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCf4iKXL_SJQ5d0qsKkboRRQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC-LM91jkqJdWFvm9B5G-w7Q",
+    "https://www.theurbanist.org/feed/",
+    "https://www.city-journal.org/rss.xml",
+    "https://urbanism.uchicago.edu/rss.xml"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b3d88353d259f92089dd56"
+  },
+  "name": "Tinkering",
+  "urls": [
+    "https://www.raspberrypi.com/news/feed/",
+    "https://www.jeffgeerling.com/blog.xml",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCR-DXc1voovS8nhAvccRZhg",
+    "https://hackaday.com/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCiDJtJKMICpb9B1qf7qjEOA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b3e72553d259f92089dd57"
+  },
+  "name": "Video Gaming Events",
+  "urls": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCgG9DQkpd3Lh0h056jCHpiw",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCOICGzFi8Ay_WDzx1uKrsgw",
+    "https://classicgamefest.com/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCu3UDdi0llxiSaFKq-p5gYQ",
+    "https://www.magwest.org/news?format=rss",
+    "https://www.2dcon.net/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCEOrTO8A5Nq9oQ1NbvLUxrg",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCsDpDmQEmdtWsGZhvxJ5rUA",
+    "https://lvlupexpo.com/feed/",
+    "https://flpolycon.org/feed/",
+    "https://kelownafx.com/feed/",
+    "https://metroconventions.com/feed/",
+    "https://www.montrealcomiccon.com/en/news/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCRDKQY3XiKMHL9b0S8kejug",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCiB1wrd61EQqw1I6Jn6lSbw",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCfEPZbudIyFV6YBoZPyMAfg",
+    "https://alias-expo.com/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCASJz_gKq5N-cpeZQxO-2XA",
+    "https://gameatl.com/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCc-oevGYJewxhHniPRCUcvQ",
+    "https://www.animeimpulse.com/bayarea?format=rss",
+    "https://pdx.wasabicon.com/feed/",
+    "https://matsuricon.org/feed/",
+    "https://gamexto.com/feed/",
+    "https://shikkaricon.com/feed/",
+    "https://conjutsu.com/feed",
+    "https://galvestonesports.com/feed/",
+    "https://miraclecon.com/feed/",
+    "https://fandomfest.org/feed/",
+    "https://pintasticnewengland.com/feed/",
+    "https://sycon.org/?utm_source=FanCons.com&utm_medium=web&utm_campaign=FanCons.com&format=feed&type=rss",
+    "https://retrocons.com/feed/",
+    "https://retropalooza.com/feed/",
+    "https://ceogaming.org/feed/",
+    "https://spa-con.org/feed/",
+    "https://www.txbattlebowl.com/feed/",
+    "https://tigerconvention.com/feed/",
+    "https://niagaragameswap.com/feed/",
+    "https://tsubasacon.org/feed/",
+    "https://jax.wasabicon.com/feed/",
+    "https://musiccitymulticon.com/feed/",
+    "https://derpycon.com/feed/",
+    "https://j1con.com/feed/",
+    "https://effing-con.com/feed/",
+    "https://www.houstonarcadeexpo.com/feed/",
+    "https://lilconconvention.com/index.php/feed/",
+    "https://www.animegamingexpo.com/feed/",
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCI3DTtB-a3fJPjKtQ5kYHfA"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b43a7953d259f92089dd5c"
+  },
+  "name": "Final Fantasy",
+  "urls": [
+    "https://www.youtube.com/feeds/videos.xml?channel_id=UCJUSr7xT6mgyz0Xj2rMD5CA",
+    "https://square-enix-games.com/en_US/rss",
+    "https://www.pushsquare.com/feeds/latest/tags/final-fantasy",
+    "https://store.steampowered.com/feeds/news/app/1173820/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1173810/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1173800/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1173790/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1173780/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1173770/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1642620/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/2252280/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/230330/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/346830/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/921590/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/239120/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/312750/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/340170/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/345350/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/552700/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/359870/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1026680/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/39150/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1608070/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/637650/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/292120/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/1358700/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/377840/?cc=US&l=english&snr=1_2108_9__2107",
+    "https://store.steampowered.com/feeds/news/app/39140/?cc=US&l=english&snr=1_2108_9__2107"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b9bbe99e9b027e65a32185"
+  },
+  "name": "Libs",
+  "urls": [
+    "https://feeds.libsyn.com/92106/rss",
+    "https://feeds.thedailybeast.com/rss/articles"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b9bc2a9e9b027e65a32186"
+  },
+  "name": "Software and Product Design",
+  "urls": [
+    "https://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b9bf0f9e9b027e65a32187"
+  },
+  "name": "OYM",
+  "urls": [
+    "https://www.badgerhealthcare.com/feed/",
+    "https://feeds.feedburner.com/CindyCooks",
+    "https://feeds.feedburner.com/Adverstructure",
+    "https://feeds.feedburner.com/WisOwners",
+    "https://www.samplenamehere.com/feed/",
+    "https://feeds.feedburner.com/NameParkway",
+    "https://feeds.feedburner.com/KleinInternet",
+    "https://www.wismarkets.com/feed/",
+    "http://feeds.feedburner.com/WisX",
+    "https://www.offyourmark.com/feed/",
+    "https://www.keithklein.me/feed/",
+    "https://www.videocracy.com/feed/",
+    "https://www.60secondcommercials.com/feed/",
+    "https://www.30secondcommercials.com/feed/",
+    "https://feeds.feedburner.com/Wispress",
+    "https://feeds.feedburner.com/SecureSiteCommerce",
+    "https://feeds.feedburner.com/RegisterSuccess",
+    "https://www.programmerhelp.com/feed/",
+    "https://www.industryquote.com/feed/",
+    "https://feeds.feedburner.com/OnyourmarkLlc",
+    "https://www.webforging.com/feed/",
+    "https://www.thebubbler.com/feed/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64bbab439e9b027e65a32190"
+  },
+  "name": "News",
+  "urls": [
+    "http://www.newyorker.com/feed/news"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64bbabc39e9b027e65a32191"
+  },
+  "name": "Culture and Lifestyle",
+  "urls": [
+    "https://www.theatlantic.com/feed/all/",
+    "http://feeds.feedburner.com/vfdotcomrss",
+    "https://www.gq.com/feed/rss",
+    "https://www.esquire.com/rss/lifestyle.xml/",
+    "https://www.newyorker.com/feed/culture",
+    "https://thephoenix.org/blog/feed/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64bbafa09e9b027e65a32192"
+  },
+  "name": "Linux - General",
+  "urls": [
+    "https://www.cyberciti.com/feed/"
+  ]
+}]

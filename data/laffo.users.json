@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "64b2b2a32d9557540600ca44"
+  },
+  "banned": false,
+  "email": "andy4@libecki.net",
+  "email_verified": false,
+  "password": "$2b$10$YpeUywzYVY85qyiv3Pv39u/9/LdRSKUHTYYQms9RK2.9jF/6p2Vxu",
+  "created_date": {
+    "$date": "2023-07-15T14:52:19.292Z"
+  },
+  "__v": 0,
+  "lists": [
+    {
+      "$oid": "64a9ce2bc477cbe5072016e9"
+    },
+    {
+      "$oid": "64ae89e271b4bbe98c92a0a1"
+    },
+    {
+      "$oid": "64a98a99c477cbe5072016c6"
+    },
+    {
+      "$oid": "64b270f553d259f92089dd18"
+    }
+  ]
+}]
