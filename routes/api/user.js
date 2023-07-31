@@ -27,6 +27,8 @@ router.post('/', (req, res) => {
 router.get('/', (req, res) => {
     const session = req.cookies.session_id;
     console.log(session);
+    //TODO: I recently learned what "Callback Hell" is
+    //TODO: looks like a promising solution: https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
     Session.findOne({session_id : session})
         .then( (session) => {
             User.findOne({_id : session.user})

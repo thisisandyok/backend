@@ -7,7 +7,7 @@ const User = require("../../models/User");
 
 
 async function getPostsForLoggedInUser(res, user, heat) {
-
+    //TODO of all the bad stuff in here, this might be the worst. Next on my list of things to fix
     if(heat) {
         await Post.find({ 'hiders': { '$ne':  user._id}, 'heat': {'$lt' : heat}, 'list': { '$in' : user.lists } })
             .select('-description -hiders')
@@ -80,7 +80,8 @@ async function getPostsForAnonUser(res, heat) {
 router.get('/', async (req, res) => {
     const session = req.cookies.session_id;
     const heat = req.query.page;
-
+   //TODO: I recently learned what "Callback Hell" is
+   //TODO: looks like a promising solution: https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
     if(session) {
         await Session.findOne({session_id: session})
             .then((session) => {

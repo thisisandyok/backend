@@ -6,6 +6,8 @@ const User = require("../../models/User");
 
 router.put('/', async (req, res) => {
     const session = req.cookies.session_id;
+    //TODO: I recently learned what "Callback Hell" is
+    //TODO: looks like a promising solution: https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
     await Session.findOne({session_id : session})
         .then( async (session) => {
             if(session) {
@@ -25,6 +27,8 @@ router.put('/', async (req, res) => {
 
 router.delete('/:id', async (req, res) => {
     const session = req.cookies.session_id;
+    //TODO: I recently learned what "Callback Hell" is
+    //TODO: looks like a promising solution: https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/
     await Session.findOne({session_id : session})
         .then( async (session) => {
             if(session) {
